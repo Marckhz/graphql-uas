@@ -25,7 +25,7 @@ SECRET_KEY = 'arupdt)e1#tya53cluh2=#97())1v^x58p!j2z&5d5#@=-mu2c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', '192.168.0.165','https://trusting-austin-18041b.netlify.app/']
+ALLOWED_HOSTS = ['0.0.0.0', '192.168.0.165','https://trusting-austin-18041b.netlify.app/', 'graphql-demo-py.herokuapp.com']
 
 
 # Application definition
