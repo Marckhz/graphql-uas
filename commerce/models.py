@@ -47,6 +47,11 @@ class MenuItems(models.Model):
     def __str__(self):
         return self.item
 
+class Service(models.Model):
+
+    service = models.TextField()
+    
+
 class Product(models.Model):
     
     product = models.TextField(null=False)

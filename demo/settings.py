@@ -83,10 +83,10 @@ DATABASES = {
     'default': {
         
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'de9bjcasbr2i8p',
-        'USER': 'wgomhkeefymqyc',
-        'PASSWORD': 'daa00554c68a5bac5d940a23738800c6267ff9229f32921715081872c242dfb4',
-        'HOST': 'ec2-3-220-86-239.compute-1.amazonaws.com',
+        'NAME': 'uberfake',
+        'USER': 'postgres',
+        'PASSWORD': 'metallica1',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
